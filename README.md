@@ -1,8 +1,2 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h1>Clone da tela de cadastro da DIO</h1>
+<p>Como projeto do curso de React da DIO, foi proposto o desenvolvimento de um clone das telas de login e cadastro da DIO, além de uma home. Foi utilizado react com as bibliotecas <b>react-router-dom</b>, <b>react-hook-form</b> e a lib do <b>yup</b> para validação dos inputs dos formulários. Não há back-end neste projeto, portanto, os dados são apenas validados no front, sem serem enviados a uma API ou inseridos em um banco de dados.</p>
